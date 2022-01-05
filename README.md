@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, AI, Cloud, and lots and lots of Data
 - 🌱 I’m currently learning Spark
 - 💞️ I’m looking to collaborate on ML Projects
-- 📫 How to reach me ... Drop a mail to anannyaroy497@gmail.com :)
+- 📫 How to reach me ... Drop a mail to royanannya1995@gmail.com :)
 
 <!---
 royanannya1995/royanannya1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
