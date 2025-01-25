@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @royanannya1995
-- 👀 I’m interested in ML, AI, Cloud, and lots and lots of Data
-- 🌱 I’m currently learning Spark
-- 💞️ I’m looking to collaborate on ML Projects
+- 👀 I’m interested in ML, AI, Cloud, GenAI and lots and lots of Data
+- 🌱 I’m currently working on Agentic AI
+- 💞️ I’m looking to collaborate on GenAI/LLM Projects
 - 📫 How to reach me ... Drop a mail to royanannya1995@gmail.com :)
 
 <!---
